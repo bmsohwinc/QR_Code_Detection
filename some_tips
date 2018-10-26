@@ -1,0 +1,23 @@
+In case any Library inclusion issues arise:
+
+1. from pyzbar.pyzbar import decode    # Pyzbar Library
+   
+   If you find any issues with this, follow this :
+              https://pypi.org/project/pyzbar/
+
+2. import  cv2
+
+  Issues with these? Then :
+              https://pypi.org/project/opencv-python/
+
+3. Links to solve pip install problems for this project are:
+              > https://www.youtube.com/watch?v=-llHYUMH9Dg
+              > https://www.youtube.com/watch?v=jnpC_Ib_lbc
+
+
+
+Links I found useful in the making of this project:
+              > https://www.youtube.com/watch?v=Z78zbnLlPUA
+              > https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_video_display/py_video_display.html
+      
+          
